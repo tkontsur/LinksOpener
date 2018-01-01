@@ -1,0 +1,14 @@
+.X-Pointer {
+  cursor: crosshair;
+}
+
+.X-Selection {
+  display: block;
+  position: absolute;
+  background: transparent;
+  border: 2px solid yellow;
+}
+
+.X-SelectedLink {
+  border: 2px solid yellow;
+}
